@@ -1,0 +1,223 @@
+{
+  "basics": {
+    "name": "Fabricio Céspedes Gómez",
+    "label": "FrontEnd Developer",
+    "image": "/me.jpg",
+    "email": "fabricespedes@gmail.com",
+    "phone": "+506 84385440",
+    "url": "https://github.com/FabricioCes",
+    "summary": "FrontEnd Developer con experiencia en REACT, Javascript, Tailwindcss y SAAS como SUPABASE, FIREBASE. Además experiencia en lenguajes como C# y Java.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Alajuela",
+      "countryCode": "CR",
+      "region": "Costa Rica"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "fabriciocg",
+        "url": "https://www.linkedin.com/in/fabriciocg/"
+      },
+      {
+        "network": "X",
+        "username": "fabri1001",
+        "url": "https://x.com/fabri1001"
+      },
+      {
+        "network": "GitHub",
+        "username": "FabricioCes",
+        "url": "https://github.com/FabricioCes"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Sistemas Ágil",
+      "position": "Developer Junior",
+      "url": "https://www.sistemasagil.com/",
+      "startDate": "2024",
+      "endDate": null,
+      "summary": "Actualmente soy parte del equipo de desarrollo y atención al cliente de Sistemas Ágil. Acá soy 100% responsable de la página web y también participo en el desarollo del sistema tipo POS que ofrecen, el cuál está desarrllado en C#",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "REGAM Parts & Equipment",
+      "position": "Administrador de Operaciones",
+      "url": "https://regamparts.com/",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "Fui responsable de vigilar las operaciones realizadas por el equipo de encargado de la atención de los clientes. Además fui parte del equipo de ventas, obteniendo experiencia en atracción de clientes, facilidad de la palabra, habilidad de negociación y más.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Sergio Alfaro Publicidad y Fotografía",
+      "position": "FrontEnd Developer",
+      "url": "https://sergioalfarocr.com/",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Lider de proyectos web con REACT, creando dashboards, landingpages, catálogos, menús web y más proyectos asociados.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Universidad Autónoma de Centro América",
+    "url": "https://www.uaca.ac.cr/",
+    "area": "Ingeniería en Sistemas",
+    "studyType": "Bachelor",
+    "startDate": "2022",
+    "endDate": "2024",
+    "score": "8.5",
+    "courses": [
+      "SQL",
+      "C#",
+      "Java",
+      "Javascript",
+      "Visual Basic",
+      "Ensamblador",
+      "Python"
+    ]
+  }],
+  
+"skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Principiante",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Franklin Gómez",
+    "reference": "Regam Parts & Equipment - +506 8549-8127"
+  }],
+  "projects": [
+    {
+      "name": "Sistema POS Básico",
+      "isActive": true,
+      "description": "Sistema tipo POS básico, desarrollado con REACT y Supabase.",
+      "highlights": [
+        "POS",
+        "Usuarios",
+        "Autenticación"
+      ],
+      "url": "https://pos.macrocodecr.com"
+    },
+    {
+      "name": "Orderease",
+      "isActive": true,
+      "description": "Proyecto que permite la creación y órdenes de compra y aprobación mediante rango de usuarios.",
+      "highlights": [
+        "Proyecto Universitario",
+        "Supabase",
+        "Tailwindcss"
+      ],
+      "url": "https://orderease.macrocodecr.com"
+    },
+    {
+      "name": "Ultimate Valorant",
+      "isActive": false,
+      "description": "Funcionó como formulario de inscripción para un torneo de videojuegos.",
+      "highlights": [
+        "Forms",
+        "Video Juegos"
+      ],
+      "url": "https://ultimatevalorant.com/"
+    }
+  ]
+}
