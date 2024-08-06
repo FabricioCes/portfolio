@@ -6,7 +6,7 @@
     "email": "fabricespedes@gmail.com",
     "phone": "+506 84385440",
     "url": "https://github.com/FabricioCes",
-    "summary": "FrontEnd Developer con experiencia en REACT, Javascript, Tailwindcss y SAAS como SUPABASE, FIREBASE. Además experiencia en lenguajes como C# y Java.",
+    "summary": "FrontEnd Developer with experience in REACT, JavaScript, Tailwindcss, and SAAS like SUPABASE, FIREBASE. Also experienced in languages such as C# and Java.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -39,18 +39,18 @@
       "url": "https://www.sistemasagil.com/",
       "startDate": "2024",
       "endDate": null,
-      "summary": "Actualmente soy parte del equipo de desarrollo y atención al cliente de Sistemas Ágil. Acá soy 100% responsable de la página web y también participo en el desarollo del sistema tipo POS que ofrecen, el cuál está desarrllado en C#",
+      "summary": "I am currently part of the development and customer service team at Sistemas Ágil. Here I am 100% responsible for the website and also participate in the development of the POS system they offer, which is developed in C#",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "REGAM Parts & Equipment",
-      "position": "Administrador de Operaciones",
+      "position": "Operations Manager",
       "url": "https://regamparts.com/",
       "startDate": "2022",
       "endDate": "2024",
-      "summary": "Fui responsable de vigilar las operaciones realizadas por el equipo de encargado de la atención de los clientes. Además fui parte del equipo de ventas, obteniendo experiencia en atracción de clientes, facilidad de la palabra, habilidad de negociación y más.",
+      "summary": "I was responsible for overseeing the operations carried out by the customer service team. I was also part of the sales team, gaining experience in customer acquisition, ease of communication, negotiation skills, and more.",
       "highlights": [
         "Started the company"
       ]
@@ -61,107 +61,138 @@
       "url": "https://sergioalfarocr.com/",
       "startDate": "2020",
       "endDate": "2022",
-      "summary": "Lider de proyectos web con REACT, creando dashboards, landingpages, catálogos, menús web y más proyectos asociados.",
+      "summary": "Project leader for web projects with REACT, creating dashboards, landing pages, catalogs, web menus, and more associated projects.",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "education": [{
-    "institution": "Universidad Autónoma de Centro América",
-    "url": "https://www.uaca.ac.cr/",
-    "area": "Ingeniería en Sistemas",
-    "studyType": "Bachelor",
-    "startDate": "2022",
-    "endDate": "2024",
-    "score": "8.5",
-    "courses": [
-      "SQL",
-      "C#",
-      "Java",
-      "Javascript",
-      "Visual Basic",
-      "Ensamblador",
-      "Python"
-    ]
-  }],
-  
-"skills": [
+  "education": [
+    {
+      "institution": "Universidad Autónoma de Centro América",
+      "url": "https://www.uaca.ac.cr/",
+      "area": "Systems Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2022",
+      "endDate": "2024",
+      "score": "8.5",
+      "courses": [
+        "SQL",
+        "C#",
+        "Java",
+        "Javascript",
+        "Visual Basic",
+        "Assembly",
+        "Python"
+      ]
+    }
+  ],
+  "skills": [
     {
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "Web Development",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Principiante",
+      "level": "Beginner",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
       ]
     },
     {
       "name": "MySQL",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
       ]
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
+        "Version Control",
+        "Collaboration",
+        "Source Code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     }
   ],
@@ -175,35 +206,39 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Franklin Gómez",
-    "reference": "Regam Parts & Equipment - +506 8549-8127"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Franklin Gómez",
+      "reference": "Regam Parts & Equipment - +506 8549-8127"
+    }
+  ],
   "projects": [
     {
-      "name": "Sistema POS Básico",
+      "name": "Basic POS System",
       "isActive": true,
-      "description": "Sistema tipo POS básico, desarrollado con REACT y Supabase.",
+      "description": "Basic POS system, developed with REACT and Supabase.",
       "highlights": [
         "POS",
-        "Usuarios",
-        "Autenticación"
+        "Users",
+        "Authentication"
       ],
       "url": "https://pos.macrocodecr.com"
     },
     {
       "name": "Orderease",
       "isActive": true,
-      "description": "Proyecto que permite la creación y órdenes de compra y aprobación mediante rango de usuarios.",
+      "description": "Project that allows the creation of purchase orders and approval through user ranges.",
       "highlights": [
-        "Proyecto Universitario",
+        "University Project",
         "Supabase",
         "Tailwindcss"
       ],
@@ -212,10 +247,10 @@
     {
       "name": "Ultimate Valorant",
       "isActive": false,
-      "description": "Funcionó como formulario de inscripción para un torneo de videojuegos.",
+      "description": "Served as a registration form for a video game tournament.",
       "highlights": [
         "Forms",
-        "Video Juegos"
+        "Video Games"
       ],
       "url": "https://ultimatevalorant.com/"
     }
