@@ -6,7 +6,7 @@
     "email": "fabricespedes@gmail.com",
     "phone": "+506 84385440",
     "url": "https://github.com/FabricioCes",
-    "summary": "FrontEnd Developer with experience in REACT, JavaScript, Tailwindcss, and SAAS like SUPABASE, FIREBASE. Also experienced in languages such as C# and Java.",
+    "summary": "FrontEnd Developer with experience in REACT, JS, TS, Tailwindcss, SAAS like SUPABASE, Strapi, NextJS, NodeJS. Also experienced in languages such as C# and Java.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -35,22 +35,22 @@
   "work": [
     {
       "name": "Sistemas Ágil",
-      "position": "Developer Junior",
+      "position": "Software Developer",
       "url": "https://www.sistemasagil.com/",
       "startDate": "2024",
       "endDate": null,
-      "summary": "I am currently part of the development and customer service team at Sistemas Ágil. Here I am 100% responsible for the website and also participate in the development of the POS system they offer, which is developed in C#",
+      "summary": "I am currently part of the development and customer service team at Sistemas Ágil. Here, I am 100% responsible for the website and also participate in the development of the POS system they offer, which is developed in C#. In addition to development, I am responsible for testing improvements or fixes made by my teammates.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "REGAM Parts & Equipment",
-      "position": "Operations Manager",
+      "position": "Software Engineer",
       "url": "https://regamparts.com/",
       "startDate": "2022",
       "endDate": "2024",
-      "summary": "I was responsible for overseeing the operations carried out by the customer service team. I was also part of the sales team, gaining experience in customer acquisition, ease of communication, negotiation skills, and more.",
+      "summary": "I created a system for a web catalog, which includes a dashboard for administrators and a page where customers can view the offered products. This application was developed using REACT and Firebase as SaaS, implementing the Mobile First approach for both the dashboard and the customer view. Additionally, in the same project, I was responsible for overseeing the operations carried out by the customer service team. I was also part of the sales team, gaining experience in customer acquisition, communication ease, negotiation skills, and more.",
       "highlights": [
         "Started the company"
       ]
@@ -61,7 +61,7 @@
       "url": "https://sergioalfarocr.com/",
       "startDate": "2020",
       "endDate": "2022",
-      "summary": "Project leader for web projects with REACT, creating dashboards, landing pages, catalogs, web menus, and more associated projects.",
+      "summary": "Project leader for web development projects, specializing in building interactive dashboards, landing pages, product catalogs, web menus, and other related applications. These projects were developed using modern frameworks such as REACT, ASTRO, and NextJS, ensuring high performance, scalability, and a seamless user experience.",
       "highlights": [
         "Started the company"
       ]
@@ -127,7 +127,7 @@
     },
     {
       "name": "TypeScript",
-      "level": "Beginner",
+      "level": "Advanced",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -195,6 +195,17 @@
         "UI"
       ]
     }
+    ,
+    {
+      "name": "Strapi",
+      "level": "Advanced",
+      "keywords": [
+        "CMS Framework",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
   ],
   "languages": [
     {
@@ -245,14 +256,15 @@
       "url": "https://orderease.macrocodecr.com"
     },
     {
-      "name": "Ultimate Valorant",
-      "isActive": false,
-      "description": "Served as a registration form for a video game tournament.",
+      "name": "Naque.cr",
+      "isActive": true,
+      "description": "Real state properties catalog, using Strapi.",
       "highlights": [
-        "Forms",
-        "Video Games"
+        "Real State",
+        "Dashboard",
+        "Contact"
       ],
-      "url": "https://ultimatevalorant.com/"
+      "url": "https://naque.cr/"
     }
   ]
 }
