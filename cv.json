@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Fabricio Céspedes Gómez",
-    "label": "FrontEnd Developer",
+    "label": "Fullstack Developer",
     "image": "/me.jpg",
     "email": "fabricespedes@gmail.com",
     "phone": "+506 84385440",
     "url": "https://github.com/FabricioCes",
-    "summary": "FrontEnd Developer with experience in REACT, JS, TS, Tailwindcss, SAAS like SUPABASE, Strapi, NextJS, NodeJS. Also experienced in languages such as C# and Java.",
+    "summary": "Fullstack Developer with experience in REACT, JS, TS, Tailwindcss, Supabase, Strapi, GraphQL, REST API NextJS, NodeJS. Also experienced in languages such as C# and Java.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -39,7 +39,7 @@
       "url": "https://www.sistemasagil.com/",
       "startDate": "2024",
       "endDate": null,
-      "summary": "I am currently part of the development and customer service team at Sistemas Ágil. Here, I am 100% responsible for the website and also participate in the development of the POS system they offer, which is developed in C#. In addition to development, I am responsible for testing improvements or fixes made by my teammates.",
+      "summary": "I am currently part of the development and customer service team at Sistemas Ágil. Here, I am 100% responsible for the website and also participate in the development of the POS system they offer, which is developed in C#. In addition to development, I am responsible for testing improvements or fixes made by my teammates. I created a chat bot with ai, which is connected to a database of a supermarket, where it can be consulted by metrics and graphs of sales, products, sales by customer and more.",
       "highlights": [
         "Started the company"
       ]
@@ -165,6 +165,15 @@
       ]
     },
     {
+      "name": "GraphQL",
+      "level": "Advanced",
+      "keywords": [
+        "GraphQL React",
+        "Apollo Server",
+        "Strapi GraphQL"
+      ]
+    },
+    {
       "name": "GitHub",
       "level": "Advanced",
       "keywords": [
@@ -235,30 +244,30 @@
   "projects": [
     {
       "name": "Basic POS System",
-      "isActive": true,
-      "description": "Basic POS system, developed with REACT and Supabase.",
+      "isActive": false,
+      "description": "Basic POS system, developed with REACT and Supabase. The database information is consumed using GraphQL.",
       "highlights": [
         "POS",
         "Users",
         "Authentication"
       ],
-      "url": "https://pos.macrocodecr.com"
+      "url": ""
     },
     {
-      "name": "Orderease",
+      "name": "AI Supermarket Chat Bot",
       "isActive": true,
-      "description": "Project that allows the creation of purchase orders and approval through user ranges.",
+      "description": "AI chatbot connected to a supermarket database displaying sales metrics and graphs.",
       "highlights": [
-        "University Project",
-        "Supabase",
+        "React",
+        "GraphQL",
         "Tailwindcss"
       ],
-      "url": "https://orderease.macrocodecr.com"
+      "url": "https://chat-agil.vercel.app/"
     },
     {
       "name": "Naque.cr",
       "isActive": true,
-      "description": "Real state properties catalog, using Strapi.",
+      "description": "Real state properties catalog, using Strapi and GraphQL.",
       "highlights": [
         "Real State",
         "Dashboard",
