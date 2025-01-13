@@ -6,7 +6,7 @@
     "email": "fabricespedes@gmail.com",
     "phone": "+506 84385440",
     "url": "https://github.com/FabricioCes",
-    "summary": "Fullstack Developer with experience in REACT, JS, TS, Tailwindcss, Supabase, Strapi, GraphQL, REST API NextJS, NodeJS. Also experienced in languages such as C# and Java.",
+    "summary": "Fullstack Developer with experience in REACT, JS, TS, REACT Native, Tailwindcss, Supabase, Strapi, GraphQL, REST API NextJS, NodeJS. Also experienced in languages such as C# and Java.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -39,7 +39,7 @@
       "url": "https://www.sistemasagil.com/",
       "startDate": "2024",
       "endDate": null,
-      "summary": "I am currently part of the development and customer service team at Sistemas Ágil. Here, I am 100% responsible for the website and also participate in the development of the POS system they offer, which is developed in C#. In addition to development, I am responsible for testing improvements or fixes made by my teammates. I created a chat bot with ai, which is connected to a database of a supermarket, where it can be consulted by metrics and graphs of sales, products, sales by customer and more.",
+      "summary": "I am part of the development team at Sistemas Ágil, where I am fully responsible for the website and contribute to the development of a POS system in C#. I also have experience developing mobile applications with React Native, including a restaurant order management app connected to a .NET API and an inventory tracking app. Additionally, I created an AI-powered chatbot integrated with a supermarket database, capable of generating metrics and graphs for sales, products, and customer analytics.",
       "highlights": [
         "Started the company"
       ]
@@ -203,8 +203,16 @@
         "JavaScript Library",
         "UI"
       ]
-    }
-    ,
+    },
+    {
+      "name": "React Native",
+      "level": "Advanced",
+      "keywords": [
+        "Mobile",
+        "Frontend",
+        "UI"
+      ]
+    },
     {
       "name": "Strapi",
       "level": "Advanced",
@@ -243,15 +251,18 @@
   ],
   "projects": [
     {
-      "name": "Basic POS System",
-      "isActive": false,
-      "description": "Basic POS system, developed with REACT and Supabase. The database information is consumed using GraphQL.",
+      "name": "Order Magnament App",
+      "isActive": true,
+      "description": "Can connect to Restaurant POS System to take orders from customers.",
       "highlights": [
         "POS",
         "Users",
-        "Authentication"
+        "Authentication",
+        "REACT Native",
+        ".NET",
+        "Typescript"
       ],
-      "url": ""
+      "url": "https://github.com/FabricioCes/orders-mobile"
     },
     {
       "name": "AI Supermarket Chat Bot",
@@ -262,7 +273,7 @@
         "GraphQL",
         "Tailwindcss"
       ],
-      "url": "https://chat-agil.vercel.app/"
+      "url": "https://github.com/FabricioCes/chatbot-client"
     },
     {
       "name": "Naque.cr",
