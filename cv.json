@@ -222,6 +222,16 @@
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "Shadcn UI",
+      "level": "Advanced",
+      "keywords": [
+        "UI",
+        "Components Library",
+        "Tailwindcss",
+        "UI"
+      ]
     }
   ],
   "languages": [
@@ -265,15 +275,16 @@
       "url": "https://github.com/FabricioCes/orders-mobile"
     },
     {
-      "name": "AI Supermarket Chat Bot",
+      "name": "5court Soccer Field Admin App",
       "isActive": true,
-      "description": "AI chatbot connected to a supermarket database displaying sales metrics and graphs.",
+      "description": "Admin app for 5court soccer field management, with customers, payments and matches control.",
       "highlights": [
-        "React",
-        "GraphQL",
-        "Tailwindcss"
+        "NextJS",
+        "Supabase",
+        "Shadcn UI",
+        "Typescript"
       ],
-      "url": "https://github.com/FabricioCes/chatbot-client"
+      "url": "https://5court.vercel.app"
     },
     {
       "name": "Naque.cr",
