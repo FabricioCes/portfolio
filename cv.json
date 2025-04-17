@@ -284,18 +284,20 @@
         "Shadcn UI",
         "Typescript"
       ],
-      "url": "https://5court.vercel.app"
+      "url": "https://5court-demo.vercel.app"
     },
     {
-      "name": "Naque.cr",
+      "name": "Go Pos UI",
       "isActive": true,
-      "description": "Real state properties catalog, using Strapi and GraphQL.",
+      "description": "Point of Sale UI with NextJS, Tauri and python backend.",
       "highlights": [
-        "Real State",
-        "Dashboard",
-        "Contact"
+        "NextJS",
+        "Chadcn UI",
+        "Typescript",
+        "Python",
+        "Tauri"
       ],
-      "url": "https://naque.cr/"
+      "url": "https://go-pos.vercel.app/"
     }
   ]
 }
