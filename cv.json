@@ -6,7 +6,7 @@
     "email": "fabricespedes@gmail.com",
     "phone": "+506 84385440",
     "url": "https://github.com/FabricioCes",
-    "summary": "Fullstack Developer with experience in REACT, JS, TS, REACT Native, Tailwindcss, Supabase, Strapi, GraphQL, REST API NextJS, NodeJS. Also experienced in languages such as C# and Java.",
+    "summary": "Full-Stack Developer with strong experience in building modern web and mobile applications using Next.js, React, TypeScript, TailwindCSS, and Shadcn UI, with a focus on scalable architecture and Server-Side Rendering (SSR). Skilled in integrating RESTful and GraphQL APIs, implementing CI/CD pipelines through Azure DevOps, and delivering high-performance, maintainable solutions.  Additionally, experienced in backend and cross-platform development with Node.js, C# (.NET), and Java, as well as database management using SQL, NoSQL, Supabase and Strapi. Passionate about clean code, Agile development (SCRUM), and leveraging AI-driven tools to enhance productivity and automation.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -34,14 +34,39 @@
   },
   "work": [
     {
+      "name": "Hikru",
+      "position": "Frontend Developer",
+      "url": "https://www.hikrutech.com/",
+      "startDate": "2025",
+      "endDate": null,
+      "summary": "At my current role, I develop and maintain modern web applications using Next.js, TypeScript, TailwindCSS, and Shadcn UI, implementing Server-Side Rendering (SSR) for optimal performance and SEO. I am responsible for integrating and consuming RESTful APIs, ensuring efficient communication between the frontend and backend services. I manage version control and CI/CD pipelines through Azure DevOps, automating build, test, and deployment workflows for production environments. Following Agile methodologies under the SCRUM framework, I participate in sprint planning, backlog management, and the creation of user stories to support iterative and efficient development. Additionally, I utilize AI-powered tools to generate and enhance content, and perform end-to-end (E2E) testing using Playwright to ensure high-quality, stable releases.",
+      "highlights": [
+        "NextJS",
+        "Tailwindcss",
+        "Shadcn UI",
+        "Typescript",
+        "SSR",
+        "Azure DevOps",
+        "Azure"
+      ]
+    },
+    {
       "name": "Sistemas Ágil",
       "position": "Software Developer",
       "url": "https://www.sistemasagil.com/",
       "startDate": "2024",
-      "endDate": null,
-      "summary": "I am part of the development team at Sistemas Ágil, where I am fully responsible for the website and contribute to the development of a POS system in C#. I also have experience developing mobile applications with React Native, including a restaurant order management app connected to a .NET API and an inventory tracking app. Additionally, I created an AI-powered chatbot integrated with a supermarket database, capable of generating metrics and graphs for sales, products, and customer analytics.",
+      "endDate": "2025",
+      "summary": "I was part of the development team at Sistemas Ágil, where I was fully responsible for the company’s website and contributed to the development of a POS system in C#. I also gained experience developing mobile applications with React Native, including a restaurant order management app connected to a .NET API and an inventory tracking app. Additionally, I developed an AI-powered chatbot integrated with a supermarket database, capable of generating metrics and interactive dashboards for sales, products, and customer analytics.",
       "highlights": [
-        "Started the company"
+        "C#",
+        "React Native",
+        "AI",
+        "Chatbot",
+        "Metrics",
+        "Dashboards",
+        "Sales",
+        "Negotiation",
+        "Business Development"
       ]
     },
     {
@@ -50,20 +75,16 @@
       "url": "https://regamparts.com/",
       "startDate": "2022",
       "endDate": "2024",
-      "summary": "I created a system for a web catalog, which includes a dashboard for administrators and a page where customers can view the offered products. This application was developed using REACT and Firebase as SaaS, implementing the Mobile First approach for both the dashboard and the customer view. Additionally, in the same project, I was responsible for overseeing the operations carried out by the customer service team. I was also part of the sales team, gaining experience in customer acquisition, communication ease, negotiation skills, and more.",
+      "summary": "I developed a web catalog system featuring a dashboard for administrators and a customer-facing interface to browse products. The application was built using React and Firebase, following a SaaS architecture and a Mobile-First approach for both administrative and client views. Within the same project, I oversaw customer service operations, ensuring efficient communication and task management. I also collaborated with the sales team, gaining experience in customer acquisition, communication, negotiation, and overall business development.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Sergio Alfaro Publicidad y Fotografía",
-      "position": "FrontEnd Developer",
-      "url": "https://sergioalfarocr.com/",
-      "startDate": "2020",
-      "endDate": "2022",
-      "summary": "Project leader for web development projects, specializing in building interactive dashboards, landing pages, product catalogs, web menus, and other related applications. These projects were developed using modern frameworks such as REACT, ASTRO, and NextJS, ensuring high performance, scalability, and a seamless user experience.",
-      "highlights": [
-        "Started the company"
+        "React",
+        "Firebase",
+        "SaaS",
+        "Mobile-First",
+        "Customer Service",
+        "Sales",
+        "Negotiation",
+        "Business Development"
       ]
     }
   ],
